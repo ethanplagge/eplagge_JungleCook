@@ -1,0 +1,16 @@
+{
+  "name": "eplagge_junglecook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass dist/scss/styles.scss dist/css/styles.css -w",
+    "live server": "live-server dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "sass": "^1.69.5"
+  }
+}
